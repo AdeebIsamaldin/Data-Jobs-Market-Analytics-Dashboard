@@ -30,6 +30,7 @@ The goal was to uncover high-growth job segments, compare compensation packages,
 
 3)Data Modeling: Created relationships among job postings, salary details, and company details for integrated analytics
 
+----
 **Technical Implementation :**
 
 Imported and processed raw job posting data exceeding 479,000 records using Power Query for automated transformation.​​
@@ -73,8 +74,9 @@ Aggregated and visualized over nine unique data professions (engineers, scientis
 ----
 
 ----
-__
+-
 **Outcome :::**
+_
 The Data Jobs Analytics Dashboard equips users with a visually compelling, data-driven view of the technical job market. Automated Power Query data cleaning guarantees reliable and scalable reporting, supporting career advice, compensation negotiation, and hiring strategy development. This project stands as a concrete demonstration of your advanced Power BI, automation, and analytics capabilities in a real-world HR context.
 
 
