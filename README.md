@@ -70,6 +70,7 @@ Aggregated and visualized over nine unique data professions (engineers, scientis
 ----
 --
 **Outcome :::**
+___
 The Data Jobs Analytics Dashboard equips users with a visually compelling, data-driven view of the technical job market. Automated Power Query data cleaning guarantees reliable and scalable reporting, supporting career advice, compensation negotiation, and hiring strategy development. This project stands as a concrete demonstration of your advanced Power BI, automation, and analytics capabilities in a real-world HR context.
 
 
