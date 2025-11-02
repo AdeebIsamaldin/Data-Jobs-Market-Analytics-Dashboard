@@ -2,7 +2,6 @@
 This project presents a user-friendly Power BI dashboard designed to analyze real-time labor market trends for data-driven roles within the tech industry. The dashboard delivers actionable insights into job availability, salary benchmarks, evolving demand for data specialties, and compensation across major job titles.
 
 
----
 ___
 **Project Aim:::**
 The goal was to uncover high-growth job segments, compare compensation packages, and reveal demand fluctuations for top data careers—supporting data professionals and organizations in career planning, talent acquisition, and salary benchmarking.
@@ -69,7 +68,7 @@ Aggregated and visualized over nine unique data professions (engineers, scientis
 ----
 
 ----
-__
+--
 **Outcome :::**
 The Data Jobs Analytics Dashboard equips users with a visually compelling, data-driven view of the technical job market. Automated Power Query data cleaning guarantees reliable and scalable reporting, supporting career advice, compensation negotiation, and hiring strategy development. This project stands as a concrete demonstration of your advanced Power BI, automation, and analytics capabilities in a real-world HR context.
 
