@@ -3,12 +3,14 @@ This project presents a user-friendly Power BI dashboard designed to analyze rea
 
 
 ___
-**Project Aim:::**
+__**Project Aim:::**
+
 The goal was to uncover high-growth job segments, compare compensation packages, and reveal demand fluctuations for top data careers—supporting data professionals and organizations in career planning, talent acquisition, and salary benchmarking.
 
 
 ---
 **Project Overview :**
+
 -Developed an interactive, visually clean Power BI dashboard tracking over 479,000 data-related job postings.
 
 -Centralized critical labor market metrics with summary cards, including Job Count (479K), Median Yearly Salary ($113K), and Median Hourly Salary ($47.62).
@@ -21,6 +23,7 @@ The goal was to uncover high-growth job segments, compare compensation packages,
 ----
 
 **Tools & Technologies :**
+
 1)Power BI Desktop: Advanced DAX, custom visuals, multi-page navigation
 
 2)Power Query: Robust data cleaning pipeline (removed duplicates, handled nulls, standardized salary/rating fields, normalized job title text, unified timeframes)
@@ -28,6 +31,7 @@ The goal was to uncover high-growth job segments, compare compensation packages,
 3)Data Modeling: Created relationships among job postings, salary details, and company details for integrated analytics
 
 **Technical Implementation :**
+
 Imported and processed raw job posting data exceeding 479,000 records using Power Query for automated transformation.​​
 
 Cleaned dataset by removing inconsistent and duplicate job entries, converting currencies, harmonizing salary/time units, and parsing categorical variables (job title, location).
@@ -40,6 +44,7 @@ Aggregated and visualized over nine unique data professions (engineers, scientis
 
 ---
 **Key Features :**
+
 -KPI summary cards: Job Count (479K), Avg. Job Rating (4 stars), Median Yearly Salary ($113K), Median Hourly Salary ($47.62)
 
 -Trend line showcasing jobs posted over time for 2024
@@ -68,9 +73,8 @@ Aggregated and visualized over nine unique data professions (engineers, scientis
 ----
 
 ----
---
+__
 **Outcome :::**
-___
 The Data Jobs Analytics Dashboard equips users with a visually compelling, data-driven view of the technical job market. Automated Power Query data cleaning guarantees reliable and scalable reporting, supporting career advice, compensation negotiation, and hiring strategy development. This project stands as a concrete demonstration of your advanced Power BI, automation, and analytics capabilities in a real-world HR context.
 
 
